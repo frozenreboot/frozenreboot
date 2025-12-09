@@ -20,3 +20,6 @@ Currently focused on optimizing legacy drivers and building robust robot applica
 </div>
 
 ---
+
+### 🔗 Connect
+[![Tech Blog](https://img.shields.io/badge/Blog-Tech_Log-black?logo=github&logoColor=white)](https://frozenreboot.github.io/)
