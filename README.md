@@ -20,8 +20,3 @@ Currently focused on optimizing legacy drivers and building robust robot applica
 </div>
 
 ---
-
-### 📈 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=frozenreboot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frozenreboot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
