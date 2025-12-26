@@ -21,5 +21,15 @@ Currently focused on optimizing legacy drivers and building robust robot applica
 
 ---
 
-### 🔗 Connect
-[![Tech Blog](https://img.shields.io/badge/Blog-Tech_Log-black?logo=github&logoColor=white)](https://frozenreboot.github.io/)
+### 🔗 Connect & Support
+<div align="left">
+  <a href="https://frozenreboot.github.io/">
+    <img src="https://img.shields.io/badge/Blog-FrozenReboot's%20Log-222222?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:frozenreboot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/frozenreboot">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</div>
